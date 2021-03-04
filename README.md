@@ -1,7 +1,7 @@
 # YesBoss
 
 1) YesBoss Admin
-YesBoss Admin App is used to post products, get a notification on receiving new orders, and view order status and history
+<span>YesBoss Admin App is used to post products, get a notification on receiving new orders, and view order status and history</span>
 
 <img src="YesBoss Admin/1.jpg" height=400>&nbsp;&nbsp;&nbsp;<img src="YesBoss Admin/2.jpg" height=400>&nbsp;&nbsp;&nbsp;<img src="YesBoss Admin/3.jpg" height=400>&nbsp;&nbsp;&nbsp;<img src="YesBoss Admin/4.jpg" height=400>
 
