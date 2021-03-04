@@ -10,6 +10,7 @@
 <img src="YesBoss Admin/9.jpg" height=400>&nbsp;&nbsp;&nbsp;<img src="YesBoss Admin/10.jpg" height=400>&nbsp;&nbsp;&nbsp;<img src="YesBoss Admin/11.jpg" height=400>&nbsp;&nbsp;&nbsp;<img src="YesBoss Admin/12.jpg" height=400>
 
 <img src="YesBoss Admin/13.jpg" height=400>
+
 2) YesBoss Client
 <p>YesBoss Client App is used to view available products, get a notification when new products are added by admin, place orders, and view order status and history</p>
 
