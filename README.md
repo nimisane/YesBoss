@@ -1,5 +1,7 @@
 # YesBoss
 
+Developed YesBoss App as a Freelancing Project
+
 1) YesBoss Admin
 <p>YesBoss Admin App is used to post products, get a notification on receiving new orders, and view order status and history</p>
 <p>Play Store Link:- https://play.google.com/store/apps/details?id=com.admin.yesbossadmin&hl=en_GB</p>
